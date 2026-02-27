@@ -22,8 +22,9 @@ Currently pursuing a Master's in Data Science for Business.
 ## 📂 Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Supplier Reconciliation](https://github.com/marcy-git/supplier-data-reconciliation) | Field-level PO matching between supplier and internal data | Excel, Power Query |
-
+| [Supplier Reconciliation](https://github.com/marcy-git/supplier-data-reconciliation) | Field-level PO matching between supplier backlog and internal Purchase Orders | Excel, Power Query |
+| [Customer Churn Analysis](https://github.com/marcy-git/customer-churn-analysis) | Churn rate analysis and dashboard for a telecom dataset of 6,687 customers | Excel, Power Query, Pivot Tables |
+| [MRP vs Supply & Demand Validation](https://github.com/marcy-git/mrp-vs-supply-demand-validation) | Cross-reference MRP purchase recommendations against multi-region S&D data to flag unnecessary buys | Excel, Power Query |
 ---
 
 ## 🎓 Education
